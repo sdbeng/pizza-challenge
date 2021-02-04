@@ -1,2 +1,2 @@
 # pizza-challenge
-ciao amico, it's pizza time!
+Ciao amico, it's pizza time!
